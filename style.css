@@ -1,0 +1,29 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+
+.bg-1{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60px;
+} 
+
+section{
+    height: 400px;
+}
+P{
+    color: dimgray;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
